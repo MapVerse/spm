@@ -30,8 +30,8 @@ let package = Package(
         
         .binaryTarget(
             name: "INVSensorManager",
-            url: "https://artifactory.basarsoft.com.tr/artifactory/generic-release-local/pods/inavi/INVSensorManager/4.0.1/INVSensorManager.xcframework.zip",
-            checksum: "4d8a3665ccac581d7a107113f4cabf65ed6eb8c2e22f69741a60b904b02fd6be"
+            url: "https://artifactory.basarsoft.com.tr/artifactory/generic-release-local/pods/inavi/INVSensorManager/3.9.9/INVSensorManager.xcframework.zip",
+            checksum: "b4ad97aff4356be33ed987e7dc2ec3e49fd9aa6dfeed532f8a07f84f728173af"
         ),
         
         .binaryTarget(
