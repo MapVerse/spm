@@ -18,8 +18,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "YolbilMobileSDK",
-            url: "https://artifactory.basarsoft.com.tr/artifactory/generic-dev-local/pods/yolbil/YolbilMobileSDK/0.0.37/YolbilMobileSDK.xcframework.zip",
-            checksum: "bcd857a6cd689e01691b9fdbf7ca3d8223ed17e36bedd461b0ad58ed8ea246d8"
+            url: "https://artifactory.basarsoft.com.tr/artifactory/generic-dev-local/pods/yolbil/YolbilMobileSDK/0.0.38/YolbilMobileSDK.xcframework.zip",
+            checksum: "ae30580150f36103c23aed8d05439dbc98a61b3161ee69b54a48f2f95652871f"
         ),
         
         .binaryTarget(
