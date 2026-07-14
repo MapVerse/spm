@@ -23,68 +23,57 @@ let package = Package(
         
         .binaryTarget(
             name: "INVLicenseManager",
-            url: "https://artifactory.basarsoft.com.tr/artifactory/generic-release-local/pods/inavi/INVLicenseManager/4.0.1/INVLicenseManager.xcframework.zip",
-            checksum: "3a9f7b3d024f6c8b375d87c1e88a5db936f906454bd2d24865c0df7c1e01abb6"
+            path: "../../../../../../../../../../Users/dilancirkin/works/ios/yolbilconnected/Yolbil Navigasyon/Pods/INVLicenseManager/INVLicenseManager.xcframework"
         ),
         
         .binaryTarget(
             name: "INVSensorManager",
-            url: "https://artifactory.basarsoft.com.tr/artifactory/generic-release-local/pods/inavi/INVSensorManager/3.9.9/INVSensorManager.xcframework.zip",
-            checksum: "b4ad97aff4356be33ed987e7dc2ec3e49fd9aa6dfeed532f8a07f84f728173af"
+            path: "../../../../../../../../../../Users/dilancirkin/works/ios/yolbilconnected/Yolbil Navigasyon/Pods/INVSensorManager/INVSensorManager.xcframework"
         ),
         
         .binaryTarget(
             name: "INVPackageManager",
-            url: "https://artifactory.basarsoft.com.tr/artifactory/generic-release-local/pods/inavi/INVPackageManager/4.0.1/INVPackageManager.xcframework.zip",
-            checksum: "9cd9d2ae0245bbee41875811afc7d8b4a95a098b6d4424d37a4f69d4bb2a8c40"
+            path: "../../../../../../../../../../Users/dilancirkin/works/ios/yolbilconnected/Yolbil Navigasyon/Pods/INVPackageManager/INVPackageManager.xcframework"
         ),
         
         .binaryTarget(
             name: "INVHelper",
-            url: "https://artifactory.basarsoft.com.tr/artifactory/generic-release-local/pods/inavi/INVHelper/0.2.3/INVHelper.xcframework.zip",
-            checksum: "0bb816ba65eefa464290d30c52c440fc5904ab44ee9dca12653e4c360a258711"
+            path: "../../../../../../../../../../Users/dilancirkin/works/ios/yolbilconnected/Yolbil Navigasyon/Pods/INVHelper/INVHelper.xcframework"
         ),
         
         .binaryTarget(
             name: "INVObjects",
-            url: "https://artifactory.basarsoft.com.tr/artifactory/generic-release-local/pods/inavi/INVObjects/4.0.0/INVObjects.xcframework.zip",
-            checksum: "3adfa208562bdb2449a3bcb300a3b07fe9c907c20589939af963fcc01920eb01"
+            path: "../../../../../../../../../../Users/dilancirkin/works/ios/yolbilconnected/Yolbil Navigasyon/Pods/INVObjects/INVObjects.xcframework"
         ),
         
         .binaryTarget(
             name: "INVCppHelper",
-            url: "https://artifactory.basarsoft.com.tr/artifactory/generic-release-local/pods/inavi/INVCppHelper/4.0.0/INVCppHelper.xcframework.zip",
-            checksum: "024e4eb89c8829df81ae13a11703dd21d398a13bc17119cc5fbc1e9895480091"
+            path: "../../../../../../../../../../Users/dilancirkin/works/ios/yolbilconnected/Yolbil Navigasyon/Pods/INVCppHelper/INVCppHelper.xcframework"
         ),
         
         .binaryTarget(
             name: "INVSmoothing",
-            url: "https://artifactory.basarsoft.com.tr/artifactory/generic-release-local/pods/inavi/INVSmoothing/4.0.0/INVSmoothing.xcframework.zip",
-            checksum: "8f023017967b475fef2e6d0aacf139a9347b6fb05a31ce14c5b8687946badca4"
+            path: "../../../../../../../../../../Users/dilancirkin/works/ios/yolbilconnected/Yolbil Navigasyon/Pods/INVSmoothing/INVSmoothing.xcframework"
         ),
 
         .binaryTarget(
             name: "INVflatbuffers",
-            url: "https://artifactory.basarsoft.com.tr/artifactory/generic-release-local/pods/inavi/INVflatbuffers/0.1.3/INVflatbuffers.xcframework.zip",
-            checksum: "6c3f4be5cfb81ae3afdfa042f4b9095ccc47d7259d951190d50bd2e728eafc7b"
+            path: "../../../../../../../../../../Users/dilancirkin/works/ios/yolbilconnected/Yolbil Navigasyon/Pods/INVflatbuffers/INVflatbuffers.xcframework"
         ),
 
         .binaryTarget(
             name: "INVData",
-            url: "https://artifactory.basarsoft.com.tr/artifactory/generic-release-local/pods/inavi/INVData/4.0.1/INVData.xcframework.zip",
-            checksum: "ea5271292253e49ddc6cb77c27d4b0afa3e8bcf556d3f4a1e3bc68a68ed8d954"
+            path: "../../../../../../../../../../Users/dilancirkin/works/ios/yolbilconnected/Yolbil Navigasyon/Pods/INVData/INVData.xcframework"
         ),
 
         .binaryTarget(
             name: "INVeventpp",
-            url: "https://artifactory.basarsoft.com.tr/artifactory/generic-release-local/pods/inavi/INVeventpp/0.1.3/INVeventpp.xcframework.zip",
-            checksum: "e8d4786320cf97b932d7050816d64810b33561dfd7adbb962536a89a5a7d0836"
+            path: "../../../../../../../../../../Users/dilancirkin/works/ios/yolbilconnected/Yolbil Navigasyon/Pods/INVeventpp/INVeventpp.xcframework"
         ),
 
         .binaryTarget(
             name: "INVAlglib",
-            url: "https://artifactory.basarsoft.com.tr/artifactory/generic-release-local/pods/inavi/INVAlglib/0.1.3/INVAlglib.xcframework.zip",
-            checksum: "3e8bea18d84cdfa5ffb79f3ce889766bfea7c37957b15511bef397a083f95d18"
+            path: "../../../../../../../../../../Users/dilancirkin/works/ios/yolbilconnected/Yolbil Navigasyon/Pods/INVAlglib/INVAlglib.xcframework"
         ),
         
         .target(
