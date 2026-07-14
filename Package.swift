@@ -18,7 +18,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "YolbilMobileSDK",
-            path: "../../git/sdk-yeni/mobile-sdk/scripts/flutter_yolbilx/ios/YolbilMobileSDK.xcframework"
+            path: "/Users/dilancirkin/works/git/sdk-yeni/mobile-sdk/scripts/flutter_yolbilx/ios/YolbilMobileSDK.xcframework"
         ),
         
         .binaryTarget(
